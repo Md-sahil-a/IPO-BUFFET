@@ -1,0 +1,42 @@
+.App {
+  width: 97.9%;
+}
+
+
+.div-button{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.button1{
+  width: 120px;
+  height: 42px;
+  border:none;
+  background-color: #03071e;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffba08;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.button1:hover{
+  background-color:#ffba08 ;
+  color: #03071e;
+  transition: all 1s;
+  border: 2px solid #03071e;
+}
+
+.sorting-button{
+  width: 88%;
+  padding-left: 8px;
+  margin: auto;
+  height: 55px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
